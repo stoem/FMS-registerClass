@@ -1,11 +1,10 @@
 author: Stefan Richter (original example provided by unknown source, please contact me and I will add credits)
-	email: stefan.richter@gmail.com
 	
-	This example shows how to use registerClass with Flash Communication Server/Flash Media Server/Adobe Media Server
-	to send custom typed AS objects between client and server 
+This example shows how to use registerClass with Flash Communication Server/Flash Media Server/Adobe Media Server
+to send custom typed AS objects between client and server 
 	
-	Instructions: 
-	1) Create a new app on FMS, upload the main.asc file into the newly created app folder 
-		(this example uses the name registerClass for the app).
-	2) Modify the connection string (rtmp address) to reflect your server's location and app name.
-	3) Run it
+Instructions: 
+1) Create a new app on FMS, upload the main.asc file into the newly created app folder 
+(this example uses the name registerClass for the app).
+2) Modify the connection string (rtmp address) to reflect your server's location and app name.
+3) Run it
